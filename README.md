@@ -38,7 +38,7 @@ Users can register, log in with **HTTP Basic Authentication**, and manage their 
 ## 🗂️ Project Structure
 
 ```
-src/main/java/com/example/springsecurityexercise
+src/main/java/com/example/lab12springsecurity
 ├── Advice
 │   └── ControllerAdvice.java
 ├── Api
@@ -214,4 +214,4 @@ Registration always creates a `USER`. To create an admin:
 
 ## 👤 Author
 
-**Your Name** — Tuwaiq Academy
+**Turki Alghamdi** — Tuwaiq Academy
